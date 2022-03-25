@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="512" height="512">
   </a>
 
   <h3 align="center">SuperGO2 - A New Galaxy Awakens</h3>
@@ -128,7 +128,7 @@ Play with Puffin:
 
 See the [open issues](https://github.com/SuperGO2/supergo2-issues/issues) for a full list of proposed features (and known issues). There you can open a new issue and is required that you follow the next format for bugs:
 
-<img src="images/logo.png" alt="Issue Example">
+<img src="images/issue-example.png" alt="Issue Example">
 
 _For more information, please refer to the [Documentation](https://github.com/SuperGO2/supergo2-issues/wiki)_
 
