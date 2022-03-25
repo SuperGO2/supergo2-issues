@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="593.5" height="270">
   </a>
 
   <h3 align="center">SuperGO2 - A New Galaxy Awakens</h3>
@@ -128,7 +128,7 @@ Play with Puffin:
 
 See the [open issues](https://github.com/SuperGO2/supergo2-issues/issues) for a full list of proposed features (and known issues). There you can open a new issue and is required that you follow the next format for bugs:
 
-<img src="images/logo.png" alt="Issue Example">
+<img src="images/issue-example.png" alt="Issue Example">
 
 _For more information, please refer to the [Documentation](https://github.com/SuperGO2/supergo2-issues/wiki)_
 
@@ -193,4 +193,4 @@ Below is a list of useful links regarding the project.
 [discord-shield]: https://img.shields.io/discord/777841529821331487?logo=discord&logoColor=white&style=for-the-badge
 [discord-url]: https://discord.gg/ApPQErfvJw
 [version-shield]: https://img.shields.io/badge/Version-v2022.2.pro--dev-blueviolet?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white&style=for-the-badge
-[version-url]: https://discord.gg/ApPQErfvJw
+[version-url]: https://supergo2.com
