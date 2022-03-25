@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="512" height="512">
+    <img src="images/logo.png" alt="Logo" width="593.5" height="270">
   </a>
 
   <h3 align="center">SuperGO2 - A New Galaxy Awakens</h3>
