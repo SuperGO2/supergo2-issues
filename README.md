@@ -172,13 +172,13 @@ Project Link: [https://github.com/SuperGO2/supergo2-issues](https://github.com/S
 
 Below is a list of useful links regarding the project.
 
-* [Official Website](https://supergo2.com){:target="_blank"}
-* [Beta Website](https://beta.supergo2.com){:target="_blank"}
-* [Launcher Releases](https://github.com/SuperGO2/supergo2-issues/releases){:target="_blank"}
-* [GO2 Fandom](https://galaxyonlineii.fandom.com){:target="_blank"}
-* [KrTools](https://krtools.deajae.co.uk){:target="_blank"}
-* [Discord](https://discord.gg/ApPQErfvJw){:target="_blank"}
-* [Facebook](https://www.facebook.com/supergo2){:target="_blank"}
+* [Official Website](https://supergo2.com)
+* [Beta Website](https://beta.supergo2.com)
+* [Launcher Releases](https://github.com/SuperGO2/supergo2-issues/releases)
+* [GO2 Fandom](https://galaxyonlineii.fandom.com)
+* [KrTools](https://krtools.deajae.co.uk)
+* [Discord](https://discord.gg/ApPQErfvJw)
+* [Facebook](https://www.facebook.com/supergo2)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
