@@ -151,7 +151,7 @@ _For more information, please refer to the [Documentation](https://github.com/Su
 <!-- CONTRIBUTING -->
 ## Join the team
 
-If you want to belong to the team you can contact us through the email that we leave in the contact section, send us your interest in participating, in which area you specialize; design, sound, programming, or send us your CV. We are very grateful to those who collaborate with us because together we make this project go ahead and in the future become a great project!
+If you want to belong to the team you can contact us through the email that we leave in the contact section, send us why you are interested in participating, in which area you specialize; design, sound, programming, or send us your CV. We are very grateful to those who collaborate with us because together we make this project go ahead and in the future become a great project!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
