@@ -70,9 +70,9 @@ Read the `Play` section of this guide to know how to play the game.
 
 
 <!-- GETTING STARTED -->
-## Play (Beta)
+## Play (Alpha)
 
-> For play the beta you need to have a generated account. This account can only be obtainable if you are a qualified battle-reviewer, or during the closed beta draw that would be announced via discord when that phase starts.
+> For play in the alpha servers you need to have a generated account. This account can only be obtainable if you are a qualified battle-reviewer, or during the closed beta draw that would be announced via discord when that phase starts.
 
 Here is a small guide on how to run the game on different operating systems.
 
