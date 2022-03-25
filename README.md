@@ -2,12 +2,10 @@
 
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Discord][discord-shield]][discord-url]
+[![Version][version-shield]][version-url]
 
 
 
@@ -70,9 +68,9 @@ Read the `Play` section of this guide to know how to play the game.
 
 
 <!-- GETTING STARTED -->
-## Play (Alpha)
+## Play (Beta)
 
-> For play in the alpha servers you need to have a generated account. This account can only be obtainable if you are a qualified battle-reviewer, or during the closed alpha draw that would be announced via discord when that phase starts.
+> For play the beta you need to have a generated account. This account can only be obtainable if you are a qualified battle-reviewer, or during the closed beta draw that would be announced via discord when that phase starts.
 
 Here is a small guide on how to run the game on different operating systems.
 
@@ -188,16 +186,11 @@ Below is a list of useful links regarding the project.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[stars-shield]: https://img.shields.io/github/stars/SuperGO2/supergo2-issues.svg?style=for-the-badge
+[stars-url]: https://github.com/SuperGO2/supergo2-issues/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SuperGO2/supergo2-issues.svg?style=for-the-badge
+[issues-url]: https://github.com/SuperGO2/supergo2-issues/issues
+[discord-shield]: https://img.shields.io/discord/777841529821331487?logo=discord&logoColor=white&style=for-the-badge
+[discord-url]: https://discord.gg/ApPQErfvJw
+[version-shield]: https://img.shields.io/badge/Version-v2022.2.pro--dev-blueviolet?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white&style=for-the-badge
+[version-url]: https://discord.gg/ApPQErfvJw
