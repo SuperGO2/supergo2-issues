@@ -19,7 +19,7 @@
   <h3 align="center">SuperGO2 - A New Galaxy Awakens</h3>
 
   <p align="center">
-    A server emulation of the old MMO flash game called Galaxy Online II
+    A private server of the old MMO flash game called Galaxy Online II
     <br />
     <a href="https://github.com/SuperGO2/supergo2-issues/releases"><strong>Explore releases »</strong></a>
     <br />
