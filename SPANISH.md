@@ -78,7 +78,7 @@ Para jugar el Alfa Cerrado necesitas tener una cuenta generada. Esta cuenta solo
 - Cualquier miembro del Staff. 
 - También, en los próximos 3 meses, se harán varios sorteos en el Discord, donde siempre habrán 3 ganadores que obtendrán una cuenta para jugar.
 
-> Cualquiera que tenga acceso a la fase closed-alpha tendrá un rol adicional en Discord que se llamará @Alpha Tester.
+> Cualquiera que tenga acceso a la fase closed-alpha tendrá un rol adicional en Discord que se llamará @Alpha Tester. Si cumples alguna de las condiciones dadas arriba, por favor contacta con Toxic#5000 en Discord.
 
 A continuación una pequeña guia para jugar en los diferentes sistemas operativos
 
