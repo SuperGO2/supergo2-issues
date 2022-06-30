@@ -139,8 +139,8 @@ _For more information, please refer to the [Documentation](https://github.com/Su
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Development Phase **« Currently here**
-- [ ] Closed Alpha Phase
+- [x] Development Phase
+- [x] Closed Alpha Phase **« Currently here**
 - [ ] Open Alpha Phase
 - [ ] Beta Phase
 
