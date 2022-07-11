@@ -72,7 +72,7 @@ Read the `Play` section of this guide to know how to play the game.
 
 To play the Closed Alpha you need to have a generated account. This account can only be obtained if you meet any of the following conditions:
 
-- If you are a patron who donated in any of the 3 tiers and at any time before May 31 of this year.
+- If you are a patron who donated in any of the 3 tiers and at any time ~~before May 31 of this year~~.
 - If you boost the official Discord before May 31 of this year.
 - If you have the Battle Reviewer role.
 - If you have the Influencer role.
