@@ -71,7 +71,7 @@ Lea la sección `Jugar` de esta guía para saber cómo jugar el juego.
 
 Para jugar el Alfa Cerrado necesitas tener una cuenta generada. Esta cuenta solo se puede obtener si cumple alguna de las siguientes condiciones:
 
-- Si es un patreon que donó en cualquiera de los 3 tiers y en cualquiera momento antes del 31 de mayo del presente año. 
+- Si es un patreon que donó en cualquiera de los 3 tiers y en cualquiera momento ~~antes del 31 de mayo del presente año~~. 
 - Si boosteo el Discord oficial antes del 31 de mayo del presente año. 
 - Si posee el rol Battle Reviewer. 
 - Si posee el rol Influencer. 
