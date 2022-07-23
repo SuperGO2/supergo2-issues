@@ -21,7 +21,7 @@
   <p align="center">
     A private server of the old MMO flash game called Galaxy Online II
     <br />
-    <a href="https://github.com/SuperGO2/supergo2-issues/releases"><strong>Explore releases »</strong></a>
+    <a href="https://github.com/SuperGO2/supergo2-issues/releases/tag/beta"><strong>Explore releases »</strong></a>
     <br />
     <br />
     <a href="https://supergo2.com">Official Website</a>
@@ -87,7 +87,7 @@ Here is a small guide on how to run the game on different operating systems.
 
 Play with our custom launcher:
 
-1. Find the windows executable in the releases tab or [click here](https://github.com/SuperGO2/supergo2-issues/releases).
+1. Find the windows executable in the releases tab or [click here](https://github.com/SuperGO2/supergo2-issues/releases/tag/beta).
 2. Download the `.exe` installer and run the installation.
 3. If windows shows you a popup with `Microsoft Defender SmartScreen prevented an unrecognized app from starting.`, just click on _More info_ and then click on **Run anyway**. This is required because the application does not have a verified developer identity.
 4. Open the game and enjoy!
@@ -102,7 +102,7 @@ Play with Flash Browser:
 
 Play with our custom launcher:
 
-1. Find the MacOS executable in the releases tab or [click here](https://github.com/SuperGO2/supergo2-issues/releases).
+1. Find the MacOS executable in the releases tab or [click here](https://github.com/SuperGO2/supergo2-issues/releases/tag/beta).
 2. Download the `.dmg` installer and run the installation.
 3. If the OS requests you to give permissions you need to enable them from the system permissions. This is required because the application does not have a verified developer identity.
 4. Open the game and enjoy!
@@ -117,7 +117,7 @@ Play with Flash Browser:
 
 Play with our custom launcher:
 
-1. Find the Linux executable in the releases tab or [click here](https://github.com/SuperGO2/supergo2-issues/releases).
+1. Find the Linux executable in the releases tab or [click here](https://github.com/SuperGO2/supergo2-issues/releases/tag/beta).
 2. Download the `.AppImage` executable and run it.
 
 ### Android & iOS
