@@ -21,7 +21,7 @@
   <p align="center">
     Un servidor privado del viejo juego flash MMO Galaxy Online II
     <br />
-    <a href="https://github.com/SuperGO2/supergo2-issues/releases"><strong>Descargas »</strong></a>
+    <a href="https://github.com/SuperGO2/supergo2-issues/releases/tag/beta"><strong>Descargas »</strong></a>
     <br />
     <br />
     <a href="https://supergo2.com">Sitio Web Oficial</a>
@@ -86,7 +86,7 @@ A continuación una pequeña guia para jugar en los diferentes sistemas operativ
 
 Juega con nuestro Launcher personalizado:
 
-1. Busca un ejecutable para Windows en la sección de descargas o [haz click aquí](https://github.com/SuperGO2/supergo2-issues/releases).
+1. Busca un ejecutable para Windows en la sección de descargas o [haz click aquí](https://github.com/SuperGO2/supergo2-issues/releases/tag/beta).
 2. Descarga el instalador en formato `.exe` y ejecuta la instalación.
 3. Si windows te muestra un mensaje de advertencia diciendo `Microsoft Defender SmartScreen impidió que se iniciara una aplicación no reconocida.`, simplemente dale en _Mas Información_ y luego click en **Ejecutar de todas formas**. Esto es requerido debido a que la aplicación no cuenta con una identidad de desarrollo verificada.
 4. Abre el juego, ingresa tus datos y disfruta!
@@ -101,7 +101,7 @@ Jugar con Flash Browser:
 
 Juega con nuestro Launcher personalizado:
 
-1. Busca un ejecutable para MacOS en la sección de descargas o [haz click aquí](https://github.com/SuperGO2/supergo2-issues/releases).
+1. Busca un ejecutable para MacOS en la sección de descargas o [haz click aquí](https://github.com/SuperGO2/supergo2-issues/releases/tag/beta).
 2. Descarga el instalador en formato `.dmg` y ejecuta la instalación.
 3. Si el sistema operativo te pide permisos debes darselos desde el panel de permisos. Esto es requerido debido a que la aplicación no cuenta con una identidad de desarrollo verificada.
 4. Abre el juego, ingresa tus datos y disfruta!
@@ -117,7 +117,7 @@ Jugar con Flash Browser:
 
 Juega con nuestro Launcher personalizado:
 
-1. Busca un ejecutable para Linux en la sección de descargas o [haz click aquí](https://github.com/SuperGO2/supergo2-issues/releases).
+1. Busca un ejecutable para Linux en la sección de descargas o [haz click aquí](https://github.com/SuperGO2/supergo2-issues/releases/tag/beta).
 2. Descarga el instalador en formato `.AppImage` y ejecuta la instalación.
 3. Abre el juego, ingresa tus datos y disfruta!
 
