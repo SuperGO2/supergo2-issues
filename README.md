@@ -70,19 +70,6 @@ Read the `Play` section of this guide to know how to play the game.
 <!-- GETTING STARTED -->
 ## Play (Beta)
 
-To play the Closed Alpha you need to have a generated account. This account can only be obtained if you meet any of the following conditions:
-
-- If you are a patron who donated in any of the 3 tiers and at any time ~~before May 31 of this year~~.
-- If you boost the official Discord before May 31 of this year.
-- If you have the Battle Reviewer role.
-- If you have the Influencer role.
-- If you are a member of the Staff.
-- Also, in the next 3 months, there will be several draws on Discord, where there will always be 3 winners who will get an account to play.
-
-> Anyone who has access to the Closed-Alpha phase will have an additional role on Discord called @Alpha Tester. If you meet any of the conditions given above, please contact with Toxic#5000 in Discord.
-
-Here is a small guide on how to run the game on different operating systems.
-
 ### Windows
 
 Play with our custom launcher:
