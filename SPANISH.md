@@ -136,8 +136,8 @@ _Para mas información, por favor revisa la [Documentación](https://github.com/
 ## Fases
 
 - [x] Fase de desarrollo (Development)
-- [x] Fase de Alpha Cerrada (Closed-Alpha) **« Actualmente aquí**
-- [ ] Fase de Alpha Abierta (Open-Alpha)
+- [x] Fase de Alpha Cerrada (Closed-Alpha)
+- [x] Fase de Alpha Abierta (Open-Alpha) **« Actualmente aquí**
 - [ ] Fase Beta (Open-Beta)
 
 <p align="right">(<a href="#top">subir</a>)</p>
