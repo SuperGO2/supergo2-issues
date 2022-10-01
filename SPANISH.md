@@ -67,20 +67,6 @@ Lea la sección `Jugar` de esta guía para saber cómo jugar el juego.
 
 
 <!-- GETTING STARTED -->
-## Jugar (Closed-Alpha)
-
-Para jugar el Alfa Cerrado necesitas tener una cuenta generada. Esta cuenta solo se puede obtener si cumple alguna de las siguientes condiciones:
-
-- Si es un patreon que donó en cualquiera de los 3 tiers y en cualquiera momento ~~antes del 31 de mayo del presente año~~. 
-- Si boosteo el Discord oficial antes del 31 de mayo del presente año. 
-- Si posee el rol Battle Reviewer. 
-- Si posee el rol Influencer. 
-- Cualquier miembro del Staff. 
-- También, en los próximos 3 meses, se harán varios sorteos en el Discord, donde siempre habrán 3 ganadores que obtendrán una cuenta para jugar.
-
-> Cualquiera que tenga acceso a la fase closed-alpha tendrá un rol adicional en Discord que se llamará @Alpha Tester. Si cumples alguna de las condiciones dadas arriba, por favor contacta con Toxic#5000 en Discord.
-
-A continuación una pequeña guia para jugar en los diferentes sistemas operativos
 
 ### Windows
 
