@@ -67,7 +67,7 @@ Lea la sección `Jugar` de esta guía para saber cómo jugar el juego.
 
 
 <!-- GETTING STARTED -->
-## Play (Beta)
+## Jugar (Beta)
 
 ### Windows
 
